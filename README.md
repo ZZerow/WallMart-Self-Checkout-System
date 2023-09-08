@@ -23,7 +23,7 @@ python main.py
 ### Payment
 --------
 #### 1. Membership point + Coupon = total Amount
-#### 2. >> Payment output(depends on method)
+#### 2. Payment output(depends on method)
 #### 3. Bill print(With Cafe Discount coupon)
 
 
