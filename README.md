@@ -8,7 +8,7 @@ python main.py
 --------------
 #### 1. Loop : User input -> Name(Customer db) + Membership code 
 #### 2. Choose how to pay : Cash, Card, Others(Ask Clerk)
-##### Cash -> Type Money, Show change,
+* Cash -> Type Money, Show change,
 ##### (Debit/ Credit)Card -> Before cheking out, insert cards, Installment(할부) 
 #### 3. Choose bag size, and take it below the shelves. 
 
