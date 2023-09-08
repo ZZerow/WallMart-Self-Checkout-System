@@ -13,7 +13,7 @@ python main.py
 #### 3. Choose bag size, and take it below the shelves. 
 
 ## Checking out Product
---------------------
+
 #### 1. Type product code refering below product table
 * (Product code , qauntity) -> DICTIONARY
 * If done, press N(ext) in the product blank  
@@ -21,7 +21,7 @@ python main.py
 * If need to be change, change... 
 
 ## Payment
---------
+
 #### 1. Membership point + Coupon = total Amount
 #### 2. Payment output(depends on method)
 #### 3. Bill print(With Cafe Discount coupon)
