@@ -15,10 +15,10 @@ python main.py
 ### Checking out Product
 --------------------
 #### 1. Type product code refering below product table
-##### (Product code , qauntity) -> DICTIONARY 
-##### If done, press N(ext) in the product blank  
-#### 2-1. Customer Check point : Number of products >> accept and move on to next step
-##### If need to be change, change... 
+* (Product code , qauntity) -> DICTIONARY
+* If done, press N(ext) in the product blank  
+#### 2. Customer Check point : Number of products >> accept and move on to next step
+* If need to be change, change... 
 
 ### Payment
 --------
