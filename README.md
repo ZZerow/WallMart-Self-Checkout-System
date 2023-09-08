@@ -5,7 +5,7 @@ python main.py
 ```
 
 ## Customer info 
---------------
+
 #### 1. Loop : User input -> Name(Customer db) + Membership code 
 #### 2. Choose how to pay : Cash, Card, Others(Ask Clerk)
 * Cash -> Type Money, Show change,
